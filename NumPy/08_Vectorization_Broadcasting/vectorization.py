@@ -1,0 +1,11 @@
+import numpy as np
+
+
+
+import numpy as np
+
+numbers = np.array([1, 2, 3, 4, 5])
+
+result = numbers * 2
+
+print(result)
