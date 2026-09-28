@@ -1,0 +1,12 @@
+id,name,age,country,gender,income,occupation,experience_years
+1,John Doe,29,USA,Male,55000,Developer,3
+1,John Doe,29,USA,Male,55000,Developer,3
+2,Jane Smith,,Canada,Female,62000,Teacher,5
+3,Alex,,USA,Unknown,48000,Designer,2
+4,Maria Garcia,34,Spain,Female,72000,Engineer,7
+5,Li Wei,27,China,Male,68000,Manager,6
+6,,45,India,Female,85000,Doctor,12
+7,Ahmed Khan,38,,Male,59000,Analyst,4
+8,Rachel Lee,29,USA,Female,64000,Consultant,5
+9,Carlos Ruiz,,Mexico,,75000,Manager,8
+10,Emily Davis,31,USA,,71000,Engineer,6
