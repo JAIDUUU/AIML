@@ -1,0 +1,16 @@
+name,country,gender,age,income,occupation
+John,USA,Male,28,55000,Developer
+Alice,USA,Female,32,62000,Teacher
+Rahul,India,Male,25,48000,Designer
+Priya,India,Female,29,52000,Engineer
+David,USA,Male,41,75000,Manager
+Emma,UK,Female,35,68000,Doctor
+Aman,India,Male,24,45000,Developer
+Neha,India,Female,31,58000,Teacher
+Robert,UK,Male,45,72000,Manager
+Sara,USA,Female,27,60000,Designer
+Arjun,USA,Male,38,80000,Engineer
+Lisa,UK,Female,30,65000,Doctor
+Daniel,India,Male,26,50000,Developer
+Kiran,USA,Female,34,70000,Manager
+Sophia,UK,Female,40,76000,Engineer
